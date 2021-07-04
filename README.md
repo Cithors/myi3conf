@@ -7,6 +7,8 @@ This is my personnal i3 configuration for Ubuntu 20.04 LTS (Desktop).
 To test it, you must download [i3-gaps](https://github.com/Airblader/i3), polybar, compton and feh.
 Some shorcuts uses installed software such as Firefox and Thunderbird.
 
+/!\ Be aware that all my comments are in french /!\
+
 First, you must run this commandline :
 
 ```
