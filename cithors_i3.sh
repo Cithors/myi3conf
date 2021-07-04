@@ -19,5 +19,5 @@ make -j8 install
 
 cd $origin
 
-cp -r {i3,polybar,compton.conf} ~/.config
-cp background.jpeg ~/Images/
+cp -r $origin/{i3,polybar,compton.conf} ~/.config/
+cp $origin/background.jpeg ~/Images/
