@@ -11,7 +11,7 @@ Some shorcuts uses installed software such as Firefox and Thunderbird.
 
 /!\ Be aware that all my comments are in french /!\
 
-First, you must run this commandline :
+Here is the commandline if you need it (don't forget to use 'sudo' if your not using the root account) :
 
 ```
 apt install i3 polybar compton feh
@@ -31,7 +31,7 @@ Pour le tester, vous devez installer i3, polybar, compton et feh.
 Ensuite, vous devez installer le fork d'i3 appelé [i3-gaps](https://github.com/Airblader/i3) (suivez juste son tutoriel).
 Certains raccourcis clavier utilisent des logiciels installés parallèlement comme Firefox et Thunderbird.
 
-Vous devez d'abord executer cette ligne de commande :
+Voici la ligne de commande si vous en avez besoin (n'oubliez pas le 'sudo' si vous n'utilisez pas le compte root):
 
 ```
 apt install i3 polybar compton feh
