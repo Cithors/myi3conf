@@ -1,6 +1,7 @@
 #!/bin/bash
 
 origin=$(pwd)
+user_home=$1
 
 add-apt-repository ppa:kgilmer/speed-ricer -y
 
@@ -21,5 +22,5 @@ make -j8 install
 
 cd $origin
 
-cp -r $origin/{i3,polybar,compton.conf} ~/.config/
-cp $origin/background.jpeg ~/Images/
+cp -r $origin/{i3,polybar,compton.conf} $user_home/.config/
+cp $origin/background.jpeg $user_home/Images/
