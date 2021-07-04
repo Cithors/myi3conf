@@ -4,7 +4,9 @@ This is my personnal i3 configuration for Ubuntu 20.04 LTS (Desktop).
 
 ### How to install this configuration ?
 
-To test it, you must download [i3-gaps](https://github.com/Airblader/i3), polybar, compton and feh.
+To test it, you must download i3, polybar, compton and feh.
+Then you must install the i3 fork called [i3-gaps](https://github.com/Airblader/i3) (just follow his tutorial).
+
 Some shorcuts uses installed software such as Firefox and Thunderbird.
 
 /!\ Be aware that all my comments are in french /!\
@@ -25,7 +27,8 @@ Ceci est ma configuration personnelle d'i3 sur un Ubuntu 20.04 LTS (Desktop).
 
 ### Comment installer cette configuration ?
 
-Pour le tester, vous devez installer [i3-gaps](https://github.com/Airblader/i3), polybar, compton et feh.
+Pour le tester, vous devez installer i3, polybar, compton et feh.
+Ensuite, vous devez installer le fork d'i3 appelé [i3-gaps](https://github.com/Airblader/i3) (suivez juste son tutoriel).
 Certains raccourcis clavier utilisent des logiciels installés parallèlement comme Firefox et Thunderbird.
 
 Vous devez d'abord executer cette ligne de commande :
