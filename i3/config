@@ -316,6 +316,10 @@ bindsym $mod+a mode "Alim"
 
 #graphique
 gaps inner 5
+border_radius 5
+
+for_window [class="^.*"] border pixel 0
+for_window [title="^.*"] border pixel 0
 
 #toolbar avec polybar
 exec_always --no-startup-id "killall polybar; polybar -r default"
