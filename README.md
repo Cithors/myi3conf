@@ -11,7 +11,7 @@ Some shorcuts uses installed software such as Firefox and Thunderbird.
 
 /!\ Be aware that all my comments are in french /!\
 
-Here is the commandline if you need it (don't forget to use 'sudo' if your not using the root account) :
+Here is the commandline if you need it (don't forget to use 'sudo' if you're not using the root account) :
 
 ```
 apt install i3 polybar compton feh
