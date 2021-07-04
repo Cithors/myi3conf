@@ -1,0 +1,20 @@
+----- Raccourcis avec lettres -----
+
+    Sortie du mode shortcut : Echap
+
+    Firefox : f
+    Discord : d
+    Teams : t
+    VSCodium : c
+    Thunderbird : m
+
+----- Raccourcis avec lettres et $mod -----
+
+    VM Windows 10 : m
+    Paramètres systèmes : p
+    Explorateur de fichier : e
+    Tor : t
+
+----- Raccourcis avec lettes, shift et $mod -----
+
+    L'aide : h

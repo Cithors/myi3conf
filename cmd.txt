@@ -1,0 +1,1 @@
+apt install i3 compton feh polybar

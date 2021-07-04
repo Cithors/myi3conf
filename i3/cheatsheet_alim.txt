@@ -1,0 +1,10 @@
+----- Raccourcis avec lettres -----
+
+    Sortie du mode shortcut : Echap
+
+    Eteindre : e
+    Redemarrer : r
+    Veille : v
+    Deconnecter : d
+    
+    L'aide : h
