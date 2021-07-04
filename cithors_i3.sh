@@ -1,4 +1,4 @@
-origin = $PWD
+set origin = $PWD
 
 add-apt-repository ppa:kgilmer/speed-ricer -y
 
